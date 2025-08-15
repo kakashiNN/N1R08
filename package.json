@@ -4,7 +4,8 @@
   "description": "simple facebook messenger bot",
   "main": "main/catalogs/IMRANA.js",
   "scripts": {
-    "start": "node main/catalogs/IMRANA.js"
+    "start": "node main/catalogs/IMRANA.js",
+    "test": "echo \"No tests defined\" && exit 0"
   },
   "author": "IMRAN",
   "license": "ISC",
